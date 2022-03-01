@@ -21,7 +21,7 @@ public class SelectionSort
         }
         for (int i=0;i<n-1;i++)
         {
-            int min = i;
+            int min = i; // that is current index with it's minimum value
             for(int j=i+1;j<n;j++)
             {
                 if(arr[j]<arr[min])
