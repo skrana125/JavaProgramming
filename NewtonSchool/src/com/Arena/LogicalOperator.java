@@ -1,4 +1,4 @@
-package Arena;
+package com.Arena;
 
 import java.util.Scanner;
 

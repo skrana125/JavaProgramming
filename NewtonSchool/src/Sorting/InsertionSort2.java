@@ -6,7 +6,7 @@ public class InsertionSort2
 {
     static void insertion(int [] arr, int n)
     {
-        int j = 0, min;
+        int j, min;
         for(int i=1;i<n;i++)
         {
 

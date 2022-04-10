@@ -8,8 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/GoogleCoding/GoogleCoding.iml" filepath="$PROJECT_DIR$/GoogleCoding/GoogleCoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaProgramming.iml" filepath="$PROJECT_DIR$/JavaProgramming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DataStructure and Algorithm/LeetCode.iml" filepath="$PROJECT_DIR$/DataStructure and Algorithm/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewtonSchool/NewtonSchool.iml" filepath="$PROJECT_DIR$/NewtonSchool/NewtonSchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS Concepts/OOPS Concepts.iml" filepath="$PROJECT_DIR$/OOPS Concepts/OOPS Concepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShitalProgam/ShitalProgam.iml" filepath="$PROJECT_DIR$/ShitalProgam/ShitalProgam.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week Contest/Week Contest.iml" filepath="$PROJECT_DIR$/Week Contest/Week Contest.iml" />
     </modules>

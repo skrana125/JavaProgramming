@@ -4,11 +4,11 @@ package Sorting;
 
 
 public class MergeSort {
-    // Merges two subarrays of arr[].
-    // First subarray is arr[l..m]
+    // Merges two sub-arrays of arr[].
+    // First subarray is arr[l...m]
     // Second subarray is arr[m+1..r]
     void merge(int [] arr, int l, int m, int r) {
-        // Find sizes of two subarrays to be merged
+        // Find sizes of two sub-arrays to be merged
         int n1 = m - l + 1;
         int n2 = r - m;
 
@@ -23,7 +23,7 @@ public class MergeSort {
 
         /* Merge the temp arrays */
 
-        // Initial indexes of first and second subarrays
+        // Initial indexes of first and second sub-arrays
         int i = 0, j = 0;
 
         // Initial index of merged subarray array

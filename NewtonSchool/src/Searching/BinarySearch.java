@@ -1,6 +1,5 @@
 package Searching;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class BinarySearch
@@ -9,8 +8,8 @@ public class BinarySearch
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the length of an Array : ");
         int n = scanner.nextInt();
-        int item, pos = 0, mid;
-        int low = 0, high = n-1,flag = 0;
+        int item, pos, mid;
+        int low = 0, high = n-1;
 
         System.out.println("Enter the element to be search : ");
         item = scanner.nextInt();
